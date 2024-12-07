@@ -1,6 +1,7 @@
-# anonymouschat
+# Onlychat
 
-anonymous chat
+chat App for lean and development 
+build in socket io
 
 ## Getting Started
 
